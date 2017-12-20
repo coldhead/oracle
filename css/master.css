@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+}
+
+main#reading > section {
+  display: inline-block;
+}
+
+h2.hexagram {
+  font-weight: normal;
+  font-size: 66vh;
+  margin: 0;
+}
+
+h3.title {
+  font-size: 5vh;
+}
+
+button#throw {
+  background-color: black;
+  color: white;
+  font-size: 15vh;
+  padding: 0.5em;
+}
